@@ -21,7 +21,7 @@
   text-decoration: underline;
 }
 .dark a:active {
-  color: yellow;
+  color: pink;
   background-color: transparent;
   text-decoration: underline;
 }
